@@ -14,8 +14,7 @@ Feature Lead at **[Cheq by Cantaloupe](https://www.cantaloupe.com/)**, where I b
 #### What I'm into right now
 
 - AI-assisted development workflows — Claude Code, planning docs, memory banks, the whole stack of "let the model do the typing while I do the thinking."
-- Building **Flo**, a Flutter expense tracker with NLP-parsed entries. Because apparently I don't have enough Flutter in my day job.
-- Freelance Mobile App Development work on the side when the brief is interesting.
+- Building **Flo**, a Flutter expense tracker with NLP-parsed entries — a side project where I get to make all the architecture calls myself.
 
 #### Reach me
 
